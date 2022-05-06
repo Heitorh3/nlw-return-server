@@ -1,0 +1,12 @@
+node_modules
+dist
+
+# Variables
+.env
+.env.local
+
+# sqlite
+.db
+
+#Testing
+coverage
