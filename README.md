@@ -5,24 +5,25 @@
 
 Bem-vindo(a)!
 
-O objetivo deste repositório foi desenvolver o back end da aplicação de feedback que pode ser acessada [aqui](https://github.com/Heitorh3/nlw-return-web).
+O objetivo deste repositório foi desenvolver o back end da aplicação de feedback, que pode ser acessada [aqui](https://github.com/Heitorh3/nlw-return-web).
 
 
 # 🧠 Contexto
 
-O objetivo é desenvolver uma aplicação que receba os feedback's dos usuários. Foi desenvolvido as seguintes funcionalidades:
+O objetivo é desenvolver uma `api` que receba os feedback's dos usuários. Foram desenvolvidas as seguintes funcionalidades:
 - [ ] Receber os feedback
-- [ ] Receber junto um print da tela
-- [ ] Enviar e-mail com a notificação de um novo feedback
+- [ ] Receber junto dos feedback's um print da tela do usuário
+- [ ] Enviar e-mail com a notificação de criação de um novo feedback
 
 ## 🎮️ Tecnologias utilizadas
 
 📑️ Colocando a mão na massa!
 
-- Utilizamos nodejs, Typescript, Docker e Prisma
+- Utilizamos as seguintes tecnologias: Nodejs (v16.15.0), Typescript(4.6.4), Docker e Prisma.
+
 
 ## 🏗️ Construindo o projeto
-- Projeto criado via `yarn init` ou `npm init`
+- Projeto criado através dos seguintes comandos: `yarn init` ou `npm init`
 
 ## 🌀️ Rodando o projeto
 - Rodando o comando `yarn start` ou `npm start` na pasta raiz
