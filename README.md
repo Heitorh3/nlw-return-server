@@ -31,7 +31,7 @@ O objetivo é desenvolver uma aplicação que receba os feedback's dos usuários
 
 ## ✔️ Testes
 
-Além dos requisitos levantados acima, iremos olhar para os seguintes critérios durante a correção do desafio:
+Além dos itens citados acima criamos testes unitário, end to end e utilizamos padrões de código.
 
 - Testes e2e com jest supertest
 - Testes unitário com jest
